@@ -5,7 +5,7 @@ Throughout my career, I have had the chance to study and analyze data of differe
 
 With my bachelor's degree in Economics and my previous experiences, I've developed a diverse set of skills that combine my knowledge of finances with my aptitude to handle, analyze, and gather insights from data.
 
-
+I'm looking for an opportunity to develop myself as a Data Scientist and put in practice all that I'm learning.
 
 - 🌱 I’m currently learning **Data Science & Data Analysis with Python**
 
